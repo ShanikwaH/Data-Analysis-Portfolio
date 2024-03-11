@@ -109,5 +109,4 @@ The best way to showcase skills is by doing and sharing your job duties or proje
    
 ## Contacts
 - LinkedIn: [www.linkedin.com/in/shanikwa-haynes-0ab51a205]
-
 - Email: shanikwa.lhaynes@gmail.com
