@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   - R
     - [Name of Project (Personal Project Project)](website URL)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/first name.last name)
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/shanikwa.haynes)
   - Power BI
   
 
@@ -77,7 +77,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Goal:** 
 
-**Code:** [`Name of Project (Personal Project)`] (website URL)
+**Code:** [`Name of Project (Personal Project)`](website URL)
 
 **Description:** 
 
@@ -90,10 +90,11 @@ In this section, I will list data analytics projects briefly describing the tech
 ## Education
 Southern New Hampshire University: 
 Bachelor of Science - BS, Data Analytics,
+Bachelor of Arts - BA, Psychology, 
 Oct 2023 - Jul 2025
 
 Dalton State College:
-Bachelor's degree, Criminal Justice,
+Bachelor's degree, Criminal Justice, Minor: Psychology
 2018 - 2021
 
 Dalton State College:
@@ -102,10 +103,10 @@ Associate's degree, General Studies,
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job duties or projects, but sometimes certificates appear to be an indirect result. Here's a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
-- [Google IT Support Professional Certificate] (website URL) (April 2022) (Coursera - Google)
-- [Google Data Analytics Professional Certificate] (website URL) (January 2023) (Coursera - Google)
-- [IBM Cybersecurity Analyst Professional Certificate] (website URL) (February 2023) (Coursera - IBM)
-- [CourseCareers IT Professional] (website URL) (March 2024) (CourseCareers)
+- [Google IT Support Professional Certificate](https://www.credly.com/badges/99d5d807-caff-4f75-aa06-2f6aabae9484/linked_in?t=rao7px) (April 2022) (Coursera - Google)
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/424140cb-f580-496e-a94b-700aa135124b/linked_in?t=rnw9eb) (January 2023) (Coursera - Google)
+- [IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/655ecca1-d320-4b12-ae51-61d753a50f71) (February 2023) (Coursera - IBM)
+- [CourseCareers IT Professional](profile.coursecareers.com/shanikwa.haynes) (March 2024) (CourseCareers)
    
 ## Contacts
 - LinkedIn: [www.linkedin.com/in/shanikwa-haynes-0ab51a205]
