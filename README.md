@@ -110,5 +110,5 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 - [CourseCareers IT Professional](profile.coursecareers.com/shanikwa.haynes) (March 2024) (CourseCareers)
    
 ## Contacts
-- LinkedIn: [www.linkedin.com/in/shanikwa-haynes-0ab51a205]
+- LinkedIn: [www.linkedin.com/in/shanikwahaynes/]
 - Email: shanikwa.lhaynes@gmail.com
