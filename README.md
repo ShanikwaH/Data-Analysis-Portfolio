@@ -90,8 +90,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ## Education
 Southern New Hampshire University: 
-Bachelor of Science - BS, Data Analytics,
-Bachelor of Arts - BA, Psychology, 
+Bachelor of Science - BS, Data Analytics & Psychology,
 Oct 2023 - Jul 2025
 
 Dalton State College:
