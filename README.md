@@ -41,9 +41,20 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Technology:** DB Fiddle, PostgreSQL
 
-**Results:** SQL functions that calculated and visually presented the TV and Movie content hosted on Netflix. Additionally, the reasons for the answers to the questions were analyzed and provided as insights.
+**Results:** SQL functions that calculated and visually presented the TV and Movie content hosted on Netflix. Additionally, the TV and Movie content hosted on Netflix were analyzed and provided as insights.
 
+### Telecom Sales Dashboard
+**Code:** [`Telecom Sales Dashboard`]()
 
+**Goal:**  This project reveals insights about differences between people on contracts versus month-to-month customers. This project includes the following steps: data loading, data cleaning, and preprocessing.
+
+**Description:** Utilized Excel to analyze sales by contracts of streaming movies that do not stream movies, have no internet service, and do stream movies for average tenure and average monthly charges. Analysis supports recommendations for differences between people on contracts versus month-to-month customers to increase company sales.
+
+**Skills:** data cleaning, data analysis.
+
+**Technology:** Excel, Pivot Tables
+
+**Results:** The project showcases valuable insights into the differences between customers on contracts and those on month-to-month subscriptions. By understanding these differences, telecom companies can tailor their marketing strategies, pricing plans, and service offerings to better cater to the needs and preferences of each customer segment, ultimately leading to increased sales and improved customer satisfaction.
 
 ### World Happiness Report
 
