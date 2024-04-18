@@ -14,14 +14,11 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [About](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Name of Project](website URL)
-    - [Name of Project](website URL)  
   - SQL
-    - [Name of Project (Personal Project)](website URL)
+    - [Netflix Analytics (DB-Fiddle) (Personal Project)](https://github.com/ShanikwaH/SQL/blob/main/Netflix%20Analytics%20(DB-Fiddle))
   - R
-    - [Name of Project (Personal Project Project)](website URL)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/shanikwa.haynes)
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/shanikwa.haynes/vizzes)
   - Power BI
   
 
@@ -29,62 +26,39 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [Education](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+
 ## Data Analytics Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Name of Project
-**Code:** [`Name of Project`](website URL)
+### Netflix Analytics
+**Code:** [`Netflix Analytics`](https://github.com/ShanikwaH/SQL/blob/main/Netflix%20Analytics%20(DB-Fiddle))
 
-**Goal:** 
+**Goal:**  This project reveals insights about TV and Movie content hosted on Netflix. This project includes the following steps: data loading, data cleaning, and preprocessing.
 
-**Description:** 
+**Description:** Utilizing a database schema in a fiddle environment, this project simulates Netflix analytics by structuring tables for user profiles, viewing history, and content details. 
 
-**Skills:** 
+**Skills:** data cleaning, data analysis.
 
-**Technology:** 
+**Technology:** DB Fiddle, PostgreSQL
 
-**Results:** 
-
-
-
-### Name of Project
-
-**Goal:** 
-
-**Code:** [`Name of Project`](website URL)
-
-**Description:** 
-
-**Skills:** 
-
-**Technology:** 
-
-**Results:** 
+**Results:** SQL functions that calculated and visually presented the TV and Movie content hosted on Netflix. Additionally, the reasons for the answers to the questions were analyzed and provided as insights.
 
 
 
-### Name of Project
-**Code:** [`Name of Project (Personal Project)`](website URL)
+### World Happiness Report
 
-**Description:** 
+**Goal:** Dived deep into global happiness data, unraveling correlations between socio-economic elements and happiness indices.
 
-**Skills:** 
+**Code:** [`World Happiness Report`](https://public.tableau.com/app/profile/shanikwa.haynes/viz/WorldHappinessReport_17125332623770/WorldHappinessReport)
 
-**Technology:**
+**Description:** Dived deep into global happiness data, unraveling correlations between socio-economic elements and happiness indices. Applied SQL and Excel in data refinement, followed by crafting an engaging Tableau visualization. Authored a detailed report on the nexus between economic security and happiness levels. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), and analyzing the correlation between economic security and happiness levels.[Image] ([https://public.tableau.com/app/profile/shanikwa.haynes/viz/WorldHappinessReport_17125332623770/WorldHappinessReport])
 
+**Skills:** data cleaning, data analysis, correlation matrices, data visualization.
 
+**Technology:** SQL, Excel, Tableau
 
-### Name of Project
+**Results:** Based on the analysis, I recommend prioritizing policies that address socio-economic inequalities and promote social cohesion to enhance overall happiness levels.
 
-**Goal:** 
-
-**Code:** [`Name of Project (Personal Project)`](website URL)
-
-**Description:** 
-
-**Skills:** 
-
-**Technology:**  
 
 
 
@@ -107,6 +81,7 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/424140cb-f580-496e-a94b-700aa135124b/linked_in?t=rnw9eb) (January 2023) (Coursera - Google)
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/655ecca1-d320-4b12-ae51-61d753a50f71) (February 2023) (Coursera - IBM)
 - [CourseCareers IT Professional](https://profile.coursecareers.com/shanikwa.haynes) (March 2024) (CourseCareers)
+- [Data Analytics Certificate Course](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/Shanikwa%20H%20break-into-tech-data-analytics-certificate.pdf)(April 2024) (Course - Break Into Tech)
    
 ## Contacts
 - LinkedIn: [www.linkedin.com/in/shanikwahaynes/]
