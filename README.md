@@ -44,7 +44,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** SQL functions that calculated and visually presented the TV and Movie content hosted on Netflix. Additionally, the TV and Movie content hosted on Netflix were analyzed and provided as insights.
 
 ### Telecom Sales Dashboard
-**Code:** [`Telecom Sales Dashboard`]()
+**Code:** [`Telecom Sales Dashboard`](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Telecom-data.xlsx)
 
 **Goal:**  This project reveals insights about differences between people on contracts versus month-to-month customers. This project includes the following steps: data loading, data cleaning, and preprocessing.
 
