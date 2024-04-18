@@ -43,7 +43,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** SQL functions that calculated and visually presented the TV and Movie content hosted on Netflix. Additionally, the TV and Movie content hosted on Netflix were analyzed and provided as insights.
 
-### Telecom Sales Dashboard
+### Telecom Sales
 **Code:** [`Telecom Sales Dashboard`](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Telecom-data.xlsx)
 
 **Goal:**  This project reveals insights about differences between people on contracts versus month-to-month customers. This project includes the following steps: data loading, data cleaning, and preprocessing.
@@ -69,7 +69,6 @@ In this section, I will list data analytics projects briefly describing the tech
 **Technology:** SQL, Excel, Tableau
 
 **Results:** Based on the analysis, I recommend prioritizing policies that address socio-economic inequalities and promote social cohesion to enhance overall happiness levels.
-
 
 
 
