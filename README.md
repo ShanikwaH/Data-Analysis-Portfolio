@@ -11,7 +11,7 @@ My CV in [pdf](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Sh
 This is a repository to showcase skills, share projects, and track my progress in topics related to data analytics / data science.
 
 ## Table of Contents
-- [About](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [About](#about)
 - [Portfolio Projects](#data-analytics-portfolio-projects)
   - Python
   - SQL
