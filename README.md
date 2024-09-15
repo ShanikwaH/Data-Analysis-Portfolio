@@ -1,6 +1,6 @@
 # Shanikwa Haynes - Data Analyst Portfolio
 ## About
-Hi, I'm Shanikwa! I have an analytical background in data analytics and am currently on track to complete my degree in data analytics (Bachelor of Science. Data Analytics). I have developed a strong foundation in data analytics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data analyst. 
+Hi, I'm Shanikwa! I have an analytical background in data analytics and am currently on track to complete my degree in computer science (Bachelor of Science. Computer Science). I have developed a strong foundation in data analytics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data analyst. 
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 
