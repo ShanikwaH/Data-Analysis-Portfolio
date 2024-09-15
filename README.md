@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 ## Table of Contents
 - [About](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](#portfolio-projects)
+- [Portfolio Projects](#data-analytics-portfolio-projects)
   - Python
   - SQL
     - [Netflix Analytics (DB-Fiddle) (Personal Project)](https://github.com/ShanikwaH/SQL/blob/main/Netflix%20Analytics%20(DB-Fiddle))
