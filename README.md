@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 ## Table of Contents
 - [About](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](#portfolio-projects)
   - Python
   - SQL
     - [Netflix Analytics (DB-Fiddle) (Personal Project)](https://github.com/ShanikwaH/SQL/blob/main/Netflix%20Analytics%20(DB-Fiddle))
@@ -24,8 +24,8 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 
 - [Education](#education)
-- [Certificates](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 ## Data Analytics Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
