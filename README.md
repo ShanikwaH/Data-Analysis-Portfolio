@@ -94,5 +94,7 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 - [Data Analytics Certificate Course](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/break-into-tech-data-analytics-certificate.pdf) (April 2024) (Course - Break Into Tech)
    
 ## Contacts
+[![LinkedIn](https://icons8.com/linkedin-icon.svg)](https://www.linkedin.com/in/shanikwahaynes/)
 - LinkedIn: (www.linkedin.com/in/shanikwahaynes/)
+[![Email](https://icons8.com/email-icon.png)](mailto:shanikwa.lhaynes@gmail.com)
 - Email: shanikwa.lhaynes@gmail.com
