@@ -23,9 +23,9 @@ This is a repository to showcase skills, share projects, and track my progress i
   
 
 
-- [Education](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md##education)  
+- [Certificates](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md##certificates)
+- [Contact](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md##contacts)
 
 ## Data Analytics Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -73,9 +73,9 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 ## Education
-Southern New Hampshire University: 
-Bachelor of Science - BS, Data Analytics & Psychology,
-Oct 2023 - Jul 2025
+Western Governors University: 
+Bachelor of Science - BS, Computer Science,
+2024 - 2026
 
 Dalton State College:
 Bachelor's degree, Criminal Justice, Minor: Psychology
