@@ -23,9 +23,9 @@ This is a repository to showcase skills, share projects, and track my progress i
   
 
 
-- [Education](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#education)(#education)
-- [Certificates](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#certificates)(#certificates)
-- [Contact](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#contacts)(#contacts)
+- [Go to Education](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#education)
+- [Certificates](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
 ## Data Analytics Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
