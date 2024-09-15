@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   
 
 
-- [Go to Education](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#education)
+- [Education](#education)
 - [Certificates](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/shanikwah/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
