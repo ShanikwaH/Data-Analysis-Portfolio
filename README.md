@@ -96,4 +96,4 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 ## Contacts
 [![LinkedIn](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/629f89df634b928c8deb63309527234dd81cbbd9/icons8-linkedin.svg)](https://www.linkedin.com/in/shanikwahaynes/)
 
-[![Email](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/629f89df634b928c8deb63309527234dd81cbbd9/icons8-email-48.png)email-icon.png)](mailto:shanikwa.lhaynes@gmail.com)
+[![Email](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/629f89df634b928c8deb63309527234dd81cbbd9/icons8-email-48.png)](mailto:shanikwa.lhaynes@gmail.com)
