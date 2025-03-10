@@ -74,8 +74,8 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ## Education
 Western Governors University: 
-Bachelor of Science - BS, Computer Science,
-2024 - 2026
+Bachelor of Science - BS Business Administration, Management,
+2024 - 2025
 
 Dalton State College:
 Bachelor's degree, Criminal Justice, Minor: Psychology
