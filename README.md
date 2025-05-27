@@ -1,12 +1,12 @@
 # Shanikwa Haynes - Data Analyst Portfolio
 ## About
-Hi, I'm Shanikwa! I have an analytical background in data analytics and have completed my degree in business administration (Bachelor of Science. Business Administration, Management). I have developed a strong foundation in data analytics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data analyst. 
+Hi, I'm Shanikwa! I have an analytical background in data analytics and am currently completing my degree in data analytics (Master of Science. Data Analytics, Data Science). I have developed a strong foundation in data analytics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data analyst. 
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 
 I enjoy exploring new data analysis tools and techniques in my free time, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Shanikwa%20Haynes%20CV.pdf).
+My CV in [pdf](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Shanikwa%20Haynes%20Data%20Analyst.pdf).
 
 This is a repository to showcase skills, share projects, and track my progress in topics related to data analytics / data science.
 
@@ -74,6 +74,10 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ## Education
 Western Governors University: 
+Master of Science - MS Data Analytics, Data Science
+2025 - Present
+
+Western Governors University: 
 Bachelor of Science - BS Business Administration, Management
 2024 - 2025
 
@@ -92,6 +96,8 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/655ecca1-d320-4b12-ae51-61d753a50f71) (February 2023) (Coursera - IBM)
 - [CourseCareers IT Professional](https://profile.coursecareers.com/shanikwa.haynes) (March 2024) (CourseCareers)
 - [Data Analytics Certificate Course](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/break-into-tech-data-analytics-certificate.pdf) (April 2024) (Course - Break Into Tech)
+- [Verified Analytics Bootcamp Certification](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Verified%20Analytics%20Bootcamp%20Certification.png)(May 2024) (Course - Alex Analytics Data Analyst Bootcamp)
+- [Data Analytics Bootcamp Certification of Completion](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png) (May 2024) (Course - Alex Analytics Data Analyst Bootcamp)
    
 ## Contacts
 <div style="display: flex; gap: 10px; align-items: center;">
