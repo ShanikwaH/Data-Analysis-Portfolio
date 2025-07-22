@@ -64,7 +64,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Code:** [`World Happiness Report`](https://public.tableau.com/app/profile/shanikwa.haynes/viz/WorldHappinessReport_17125332623770/WorldHappinessReport)
 
-**Description:** Dived deep into global happiness data, unraveling correlations between socio-economic elements and happiness indices. Applied SQL and Excel in data refinement, followed by crafting an engaging Tableau visualization. Authored a detailed report on the nexus between economic security and happiness levels. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), and analyzing the correlation between economic security and happiness levels.[Image] ([https://public.tableau.com/app/profile/shanikwa.haynes/viz/WorldHappinessReport_17125332623770/WorldHappinessReport])
+**Description:** Dived deep into global happiness data, unraveling correlations between socio-economic elements and happiness indices. Applied SQL and Excel in data refinement, followed by crafting an engaging Tableau visualization. Authored a detailed report on the nexus between economic security and happiness levels. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), and analyzing the correlation between economic security and happiness levels.[Image] (https://public.tableau.com/app/profile/shanikwa.haynes/viz/WorldHappinessReport_17125332623770/WorldHappinessReport)
 
 **Skills:** data cleaning, data analysis, correlation matrices, data visualization.
 
@@ -77,7 +77,7 @@ In this section, I will list data analytics projects briefly describing the tech
 ## Education
 Western Governors University: 
 Master of Science - MS Data Analytics, Data Science
-2025 - Present
+2025 - 2025
 
 Western Governors University: 
 Bachelor of Science - BS Business Administration, Management
