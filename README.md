@@ -1,12 +1,14 @@
 # Shanikwa Haynes - Data Analyst Portfolio
 ## About
-Hi, I'm Shanikwa! I have an analytical background in data analytics and am currently completing my degree in data analytics (Master of Science. Data Analytics, Data Science). I have developed a strong foundation in data analytics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data analyst. 
+Hi, I'm Shanikwa! I have an analytical background in data analytics and have completed my degree in data analytics (Master of Science. Data Analytics, Data Science). I have developed a strong foundation in data analytics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as a data analyst. 
+
+I am a data analyst with a Master of Science in Data Analytics and Data Science, and a strong academic foundation in data science, business, and criminal justice. My work focuses on deriving actionable insights from structured and unstructured data using SQL, Python, Excel, Tableau, and other tools. I specialize in data wrangling, statistical analysis, and data storytelling. My portfolio demonstrates applied knowledge through academic and independent projects, reflecting a commitment to analytical rigor and continuous learning.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management and statistical analysis, which I believe will be valuable assets in my role as a data analyst.
 
 I enjoy exploring new data analysis tools and techniques in my free time, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Shanikwa%20Haynes%20Data%20Analyst.pdf).
+My CV in [pdf]([https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Shanikwa%20L.%20Haynes-Operations%20Analyst%20_%20Business%20Analyst.pdf]).
 
 This is a repository to showcase skills, share projects, and track my progress in topics related to data analytics / data science.
 
