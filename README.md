@@ -12,6 +12,8 @@ My CV in [pdf](https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/main/Sh
 
 This is a repository to showcase skills, share projects, and track my progress in topics related to data analytics / data science.
 
+I got my inspiration from [Tianna Parris](https://github.com/tiannaparris/Data-Analysis-Portfolio)
+
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#data-analytics-portfolio-projects)
